@@ -5,8 +5,13 @@ To use this app download the latest version(Weather App 2.1) and open it. This s
 
 ## Usage
 ### Menus
-There are 3 menus that can be accessed in this app; The main menu, the weather menu and the location history menu. The 
+There are three menus contained within this weather app: The main menu, the weather menu and the location history menu. The main menu is the 
 
 
 
-### Additional Commands
+### Universal Commands
+Additionally, there are three commands that can be utilized in any menu: 'help', 'quit' and 'clear'. The help command will give the user a list of commands that can be inputted at that menu. The quit commmand allows the user to 
+
+
+## Acknowledgements
+Open Weather Map's API was used in the construction of this project.
